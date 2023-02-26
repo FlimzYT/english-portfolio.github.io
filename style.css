@@ -202,3 +202,10 @@ button:hover{
         width: 115%;
     }
 }
+.btns a{
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: 400;
+    color: #fff;
+}
